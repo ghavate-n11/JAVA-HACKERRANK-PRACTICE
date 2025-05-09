@@ -19,7 +19,7 @@ This repository contains solved Java problems from HackerRank, organized by topi
 
 ---
 
-## 📘 Strings
+#📘 Strings
 
 - Java Substring
 - Java Substring Comparisons
